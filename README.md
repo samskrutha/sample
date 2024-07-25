@@ -6,8 +6,8 @@ hello
 
 ## These are the commands
 
-'''
+```
 cd directory
 mkdir name
 
-'''
+```
