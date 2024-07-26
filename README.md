@@ -11,7 +11,14 @@ cd directory
 mkdir name
 ```
 
+<<<<<<< HEAD
 ## This change should not be reflected in Main Branc
 
 
 ## This is a line from bug fix branchh
+=======
+
+```
+ssh -i
+```
+>>>>>>> test-branch
