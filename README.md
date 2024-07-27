@@ -22,8 +22,5 @@ ssh -i
 
 ## This line was added by Kusuma
 ## This is a second line
-<<<<<<< Updated upstream
 ## This is a third line
-=======
 ## This is a fourth line
->>>>>>> Stashed changes
